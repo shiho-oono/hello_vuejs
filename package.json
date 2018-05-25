@@ -18,5 +18,8 @@
   "homepage": "https://github.com/shiho-oono/hello_vuejs#readme",
   "dependencies": {
     "vue": "^2.5.16"
+  },
+  "devDependencies": {
+    "browserify": "^16.2.2"
   }
 }
